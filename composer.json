@@ -1,5 +1,5 @@
 {
-    "name": "nordsoftware/lumen-cors",
+    "name": "wgqi1126/lumen-cors",
     "description": "CORS module for the Lumen PHP framework.",
     "keywords": ["lumen", "cors", "cross-origin", "resource", "sharing", "preflight", "http", "request", "headers", "laravel"],
     "license": "MIT",
